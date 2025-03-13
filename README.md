@@ -1,2 +1,2 @@
 # Lab-virtualizacao
-Documentação detalhada da criação de um laboratório de virtualização, incluindo a implantação de servidores Dell R910 com VMware ESXi 6.7, configuração do vSphere para gestão de VMs, implementação de storage com TrueNAS, segmentação de rede com VLANs em switches Cisco, acesso seguro via VPN PPTP
+Este Repositório documenta a criação e configuração de um ambiente de virtualização utilizando servidores Dell R910, VMware ESXi 6.7, vSphere, TrueNAS, e infraestrutura de rede com switches Cisco e VPN PPTP.
