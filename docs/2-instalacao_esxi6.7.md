@@ -1,6 +1,5 @@
 Incluir:
 Passo a passo da instalação do ESXi.
-Como configurar e adicionar hosts no vSphere.
 
 # Instalando o ESXi em um Pendrive ou Cartão SD  
 
