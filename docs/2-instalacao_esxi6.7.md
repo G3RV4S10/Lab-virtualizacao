@@ -3,8 +3,6 @@ Passo a passo da instalação do ESXi.
 
 # Instalando o ESXi em um Pendrive ou Cartão SD  
 
-Depois de colocar o cartão SD no seu sistema, encontre o instalador do ESXi que você criou seguindo os passos de download do instalador.  
-
 ## Passos para a instalação  
 
 1. **Ligue o sistema.**  
