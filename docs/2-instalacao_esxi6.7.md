@@ -1,6 +1,3 @@
-Incluir:
-Passo a passo da instalação do ESXi.
-
 # Instalando o ESXi em um Pendrive
 
 ## Passos para a instalação  
