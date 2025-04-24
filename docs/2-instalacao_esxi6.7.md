@@ -38,7 +38,7 @@ OBS: Caso encontre algum problema e/ou hd não apareça, verifique o drive da co
 
 11. **Após a reinicialização, a tela de login estará disponível para ser customizado de acordo com sua necessidade, neste caso o DHCP entregou o ip ao servidor, mas pressionando a tecla F2 poderá ser alterado/adicionado o IP de sua preferencia para o servidor.**  
 ![image](https://github.com/user-attachments/assets/9df37f18-36af-456d-82d4-dd4790b35e38)
-OBS: Como supracitado, altere de acordo com sua necessidade
+OBS: Como supracitado, altere de acordo com sua necessidade, este ip será o acesso ao gerenciador WEB da interface do hypervisor
 
 12. **Alteração do IP**
 ![image](https://github.com/user-attachments/assets/3793212b-4184-4173-80f3-af9da4d57fdb)
