@@ -36,7 +36,7 @@ OBS: Caso encontre algum problema e/ou hd não apareça, verifique o drive da co
 ![image](https://github.com/user-attachments/assets/2a84cfb1-1b1d-4e9c-a791-dacd1fcdcda2)
 
 
-11. **Após a reinicialização, a tela de login estará disponível para ser customizado de acordo com sua necessidade, em nosso caso o DHCP entregou o ip ao servidor, mas pressionando a tecla F2 poderá ser adicionado o IP de sua preferencia para o servidor.**  
+11. **Após a reinicialização, a tela de login estará disponível para ser customizado de acordo com sua necessidade, neste caso o DHCP entregou o ip ao servidor, mas pressionando a tecla F2 poderá ser alterado/adicionado o IP de sua preferencia para o servidor.**  
 ![image](https://github.com/user-attachments/assets/9df37f18-36af-456d-82d4-dd4790b35e38)
 OBS: Como supracitado, altere de acordo com sua necessidade
 
