@@ -51,3 +51,7 @@ OBS: Ao pressionar `F2` será solicitado a senha root
 ![image](https://github.com/user-attachments/assets/81ecd089-098b-4784-a4b4-3399e443d739)
 
 15. **Por fim, ative a licença correta do ESXi.**
+
+**Imagem do nosso hypervisor esxi 6.7 instalado e sendo utilizado.**
+![image](https://github.com/user-attachments/assets/81b28685-384a-4dee-bdd2-24e806d0e66e)
+
